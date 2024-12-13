@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm E ADITHYA SRIKAR</h1>
+<h1 align="center">Hi 👋, I'm Adithya</h1>
 <h3 align="center">like to build stuff</h3>
 
 - 👯 I’m looking to collaborate on **any android development project**
