@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adithya</h1>
 <h3 align="center">like to build stuff</h3>
 
-- 👯 I’m looking to collaborate on **any android development project**
+- 👯 I’m looking to collaborate on **any android ,Web , ML and Fastapi project**
 
 - 🤝 I’m looking for help with **imporving my dsa and quality of projects**
 
