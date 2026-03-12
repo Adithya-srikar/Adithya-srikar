@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **adithyasrikar.54@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/adithya-srikar/overlay/1715541163751/single-media-viewer/?profileId=ACoAAERbbMIBSna9LzAzq3J0394wXpm7vY7mSVc](https://www.linkedin.com/in/adithya-srikar/overlay/1715541163751/single-media-viewer/?profileId=ACoAAERbbMIBSna9LzAzq3J0394wXpm7vY7mSVc)
+- 📄 Know about my experiences [here](https://www.linkedin.com/in/adithya-srikar/overlay/1770646904392/single-media-viewer/?profileId=ACoAAERbbMIBSna9LzAzq3J0394wXpm7vY7mSVc)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
