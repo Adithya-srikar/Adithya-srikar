@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:7C3AED&height=220&section=header&text=Adithya%20Srikar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Builder&descAlignY=58" />
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:7C3AED&height=100&section=header&text=Adithya%20Srikar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20Backend%20Dev&descAlignY=70&descSize=12" width="100%" />
 <p align="center">
   <a href="https://adithya-srikar.dev">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox-browser&logoColor=white" />
