@@ -19,17 +19,15 @@
   <img src="https://img.shields.io/badge/LeetCode-Grind-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
 </a>
 
-<br/><br/>
-
 </div>
 
-##  About
+<h2 align="center">About</h2>
 
 ```yaml
 name      : Adithya Srikar
 location  : Hyderabad, India 🇮🇳
-focus     : AI Voice Agents · LLM Applications · Agentic Systems · Full Stack · Cloud
-learning  : Advanced AWS · RAG Pipelines · Scalable AI Infrastructure
+focus     : AI Voice Agents · LLM Applications · Agentic Systems · Fastapi (Backend) · Cloud · RAG Pipelines
+learning  : Advanced AWS  · Scalable AI Infrastructure
 ```
 
 ## Technologies
@@ -38,9 +36,8 @@ learning  : Advanced AWS · RAG Pipelines · Scalable AI Infrastructure
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-111111?style=flat-square&logo=ai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -51,6 +48,7 @@ learning  : Advanced AWS · RAG Pipelines · Scalable AI Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 </div>
 
