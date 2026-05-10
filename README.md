@@ -1,16 +1,59 @@
-<h1 align="center">Hi 👋, I'm Adithya</h1>
-<h3 align="center">like to build stuff</h3>
+<div align="center">
 
-- 👯 I’m looking to collaborate on **any android ,Web , ML and Fastapi project**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1a1a2e&height=140&text=Adithya%20Srikar&fontSize=48&fontColor=E0E0E0&fontAlignY=45&desc=AI%20Engineer%20%7C%20Builder&descAlignY=70&descColor=8B8B8B&descSize=15" />
 
-- 🤝 I’m looking for help with **imporving my dsa and quality of projects**
 
-- 📫 How to reach me **adithyasrikar.54@gmail.com**
+<a href="https://adithya-srikar.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-adithya--srikar.dev-9D4EDD?style=flat-square&logo=firefox&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:adithyasrikar.54@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-3D3D3D?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/adithya-srikar" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Grind-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+</a>
 
-- 📄 Know about my experiences [here](https://www.linkedin.com/in/adithya-srikar/overlay/1770646904392/single-media-viewer/?profileId=ACoAAERbbMIBSna9LzAzq3J0394wXpm7vY7mSVc)
+<br/><br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adithya-srikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adithya-srikar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user7225ka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user7225ka" height="30" width="40" /></a>
-</p>
+</div>
+
+##  About
+
+```yaml
+name      : Adithya Srikar
+location  : Hyderabad, India 🇮🇳
+focus     : AI Voice Agents · LLM Applications · Agentic Systems · Full Stack · Cloud
+learning  : Advanced AWS · RAG Pipelines · Scalable AI Infrastructure
+```
+
+## Technologies
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+</div>
+
+<div align="center">
+<sub>Open to collabs on AI products, agentic systems & ambitious ideas &nbsp;·&nbsp; <a href="https://adithya-srikar.dev">adithya-srikar.dev</a></sub>
+</div>
