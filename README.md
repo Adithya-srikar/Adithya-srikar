@@ -1,25 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:1a1a2e&height=140&text=Adithya%20Srikar&fontSize=48&fontColor=E0E0E0&fontAlignY=45&desc=AI%20Engineer%20%7C%20Builder&descAlignY=70&descColor=8B8B8B&descSize=15" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:7C3AED&height=220&section=header&text=Adithya%20Srikar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Builder&descAlignY=58" />
 
-
-<a href="https://adithya-srikar.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-adithya--srikar.dev-9D4EDD?style=flat-square&logo=firefox&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:adithyasrikar.54@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-3D3D3D?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/adithya-srikar" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://leetcode.com/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-Grind-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
-</a>
+<p align="center">
+  <a href="https://adithya-srikar.dev">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  </a>
+  
+  <a href="mailto:adithyasrikar.54@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  
+  <a href="https://linkedin.com/in/adithya-srikar">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+  </a>
+</p>
 
 </div>
+
 
 <h2 align="center">About</h2>
 
